@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @noodlegang
-- 🌱 I’m currently learning software development in C#, studying Computer Systems in Turiba University
+- 🌱 I’m currently studying Computer Systems in Turiba University
 - 📫 How to reach me: vlntnkram@gmail.com
