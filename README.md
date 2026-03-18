@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @noodlegang
-- 🌱 I’m currently studying Computer Systems in Turiba University
 - 📫 How to reach me: vlntnkram@gmail.com
